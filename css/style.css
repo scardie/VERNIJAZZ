@@ -1447,8 +1447,8 @@ padding: 30px;
 .hero_bebop{
 
 
-        
-        height: 100vh;
+      
+        height: 500vh;
         width: 100%;
         background: #FFFFF0 ;
         background-size: cover;
@@ -1456,11 +1456,25 @@ padding: 30px;
 
    }     
 
+.hero_bebop p{
+
+
+font-family:'Fira Sans', sans-serif; ;
+color: #330066;
+font-size: 20px;
+
+}
+
+
+
+
 
 .hero_cont_bebop{
   color: #330066;
 position: relative;
 top: 20vh;
+padding: 30px;
+
 
 
 }
@@ -1471,6 +1485,20 @@ top: 20vh;
 
 }
         
+.hero_cont_bebop h2 {
+font-family:'Fira Sans', sans-serif;
+ color: #330066;
+
+}
+
+
+
+.descrizione{
+
+padding-top: 15px;
+}
+
+
 
 
 
