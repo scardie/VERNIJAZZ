@@ -656,33 +656,6 @@ footer{
 
 
 
-/* PANORAMICA*/
-
-
-
-.hero2{
-  height: 100vh;
-  display: flex; width: 100%;align-items: center;
-  background: #330066;
-  background-size: cover;
-}
-
-
-
-
-.hero_content2{
-  padding: 30px;
-  width: 100%;
-  max-width: 1350px;
-  margin: 0 auto;
-  padding: 30px;
-
-
-}
-
-/*main {overflow: hidden}*/
-
-.hero_content2 h1 {color:#FFFFF0;}
 
 
 
@@ -1371,32 +1344,6 @@ top: 10%;}
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*! DOCUMENTAZIONE */
 
 .hero_doc{
@@ -1493,29 +1440,73 @@ padding: 30px;
 }
 
 
+/*! BEBOP */
+
+
+
+.hero_bebop{
+
+
+        
+        height: 100vh;
+        width: 100%;
+        background: #FFFFF0 ;
+        background-size: cover;
+        align-items: center;
+
+   }     
+
+
+.hero_cont_bebop{
+  color: #330066;
+position: relative;
+top: 20vh;
+
+
+}
+
+.hero_cont_bebop h1 {
+ color: #330066;
+ text-align: center;
+
+}
+        
 
 
 
 
 
 
+/* anni 20*/
 
 
 
+.hero_anni20{
 
 
+        
+        height: 100vh;
+        width: 100%;
+        background: #FFFFF0 ;
+        background-size: cover;
+        align-items: center;
+
+   }     
 
 
+.hero_cont_anni20{
+  color: #330066;
+position: relative;
+top: 20vh;
 
 
+}
 
+.hero_cont_anni20 h1 {
+ color: #330066;
+ text-align: center;
 
-
-
-
-
-
-
+}
 
 
 

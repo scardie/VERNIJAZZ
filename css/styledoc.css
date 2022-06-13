@@ -41,7 +41,7 @@ nav li a{
 
 .nav--open{right: 0%;}
 
-.active { text-decoration: underline ;background-color:#FFFFF0 !important; color: #000;}
+.active { text-decoration: underline ;background-color:#330066!important; color: #000;}
 
 
 .hamburger{
@@ -53,9 +53,23 @@ nav li a{
   right: 30px;
 }
 
-.hamburger span{background: #FFFFF0; height: 3px; width: 100%; display: block; margin-bottom: 3px;}
+.hamburger span{background: #330066; height: 3px; width: 100%; display: block; margin-bottom: 3px;}
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
