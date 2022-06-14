@@ -31,7 +31,7 @@ nav li a{
 .diocane li{display: block;}
 .diocane li a{padding:15px 30px; font-size:20px; color:#FFFFF0 }
 
-#header {z-index: 1}
+#header {z-index: 3}
 
 
 #main {z-index: 0}
@@ -53,5 +53,9 @@ nav li a{
 }
 
 .hamburger span{background: #330066; height: 3px; width: 100%; display: block; margin-bottom: 3px;}
+
+}
+
+
 
 }
